@@ -62,6 +62,7 @@ public class Ejercicio_04_G3_JavaCollections {
          System.out.println("Lista de peliculas (Por orden de duracion): ");
          //Mostrar pelis en orden de duracion:
          pelis.pelisOrd2();
+         //Fin ejercicio :)
 
     }
 
